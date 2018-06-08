@@ -1,2 +1,2 @@
 # LML
-Creating this project 
+Creating this project is for Learning Machine Learning
