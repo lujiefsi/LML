@@ -8,4 +8,4 @@ mul = tf.multiply(input1, intermed)
 with tf.Session() as sess:
     # fetch the tensor value
     result  = sess.run([mul, intermed])
-    print result
+    print (result)
