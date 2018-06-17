@@ -1,2 +1,2 @@
 # comment
-print "Comment won't be printed"
+print ("Comment won't be printed")

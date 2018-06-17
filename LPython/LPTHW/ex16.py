@@ -3,7 +3,7 @@ from sys import argv
 
 script, filename = argv
 
-print "We are going to erase %r" % filename
+print ("We are going to erase %r" % filename)
 
 target = open(filename, "w")
 target.truncate()

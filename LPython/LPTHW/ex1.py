@@ -1,4 +1,4 @@
 # begin
-print "Hello World!"
+print ("Hello World!")
 
-print 'Yay! Printing'
+print ('Yay! Printing')
