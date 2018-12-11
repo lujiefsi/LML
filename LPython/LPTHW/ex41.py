@@ -11,8 +11,9 @@ WORD_URL = "http://learncodethehardway.org/words.txt"
 
 WORDS = []
 
-for word in urlopen(WORD_URL).readLine():
-    WORDS.append(word.append())
+for word in urlopen(WORD_URL).readlines():
+    WORDS.append(word.strip())
+    print(WORDS)
 
 
 

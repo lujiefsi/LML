@@ -16,4 +16,4 @@ for i in range(0,6):
     elements.append(i)
 
 for i in elements:
-    print("eclments was %d" %i)
+    print("element was %d" %i)

@@ -3,4 +3,4 @@ cats = 30
 dogs = 15
 
 if people < cats:
-    print "Too many cats!"
+    print ("Too many cats!")
